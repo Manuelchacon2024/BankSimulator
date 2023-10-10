@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+   
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.end-1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.thanks{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 200px;
+    margin-block-end: -200px;
+}
